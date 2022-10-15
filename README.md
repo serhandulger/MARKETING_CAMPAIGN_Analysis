@@ -1,2 +1,0 @@
-# marketing_analyzes
-marketing_campaign_analyzes
