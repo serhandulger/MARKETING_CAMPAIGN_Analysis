@@ -26,3 +26,6 @@ In this study, we will be handling some of the common functions to manipulate th
  6) List comprehensions []
  7) map()
  8) np.where()
+ 
+References: www.datacamp.com
+www.veribilimiokulu.com
